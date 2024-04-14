@@ -2,28 +2,95 @@
     "items": [
         {
             "orig": "?",
-            "repl": ""
+            "repl": "%3F"
         },
         {
             "orig": "&",
-            "repl": ""
+            "repl": "%26"
         },
         {
             "orig": "/",
-            "repl": ""
+            "repl": "%2F"
         },
         {
             "orig": "\\",
-            "repl": ""
+            "repl": "%5C"
         },
         {
-            "orig": "http:",
-            "repl": ""
+            "orig": " ",
+            "repl": "%20"
         },
         {
-            "orig": "https:",
-            "repl": ""
+            "orig": ":",
+            "repl": "%3A"
+        },
+        {
+            "orig": "!",
+            "repl": "%21"
+        },
+        {
+            "orig": "*",
+            "repl": "%2A"
+        },
+        {
+            "orig": "'",
+            "repl": "%27"
+        },
+        {
+            "orig": "(",
+            "repl": "%28"
+        },
+        {
+            "orig": ")",
+            "repl": "%29"
+        },
+        {
+            "orig": ";",
+            "repl": "%3B"
+        },
+        {
+            "orig": ":",
+            "repl": "%3A"
+        },
+        {
+            "orig": "@",
+            "repl": "%40"
+        },
+        {
+            "orig": "=",
+            "repl": "%3D"
+        },
+        {
+            "orig": "+",
+            "repl": "%2B"
+        },
+        {
+            "orig": "$",
+            "repl": "%24"
+        },
+        {
+            "orig": ",",
+            "repl": "%2C"
+        },
+        {
+            "orig": "?",
+            "repl": "%3F"
+        },
+        {
+            "orig": "%",
+            "repl": "%25"
+        },
+        {
+            "orig": "#",
+            "repl": "%23"
+        },
+        {
+            "orig": "[",
+            "repl": "%5B"
+        },
+        {
+            "orig": "]",
+            "repl": "%5D"
         }
     ]
 }
-  
