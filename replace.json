@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "orig": "?",
+            "repl": ""
+        },
+        {
+            "orig": "&",
+            "repl": ""
+        },
+        {
+            "orig": "/",
+            "repl": ""
+        },
+        {
+            "orig": "\\",
+            "repl": ""
+        },
+        {
+            "orig": "http:",
+            "repl": ""
+        },
+        {
+            "orig": "https:",
+            "repl": ""
+        }
+    ]
+}
+  
